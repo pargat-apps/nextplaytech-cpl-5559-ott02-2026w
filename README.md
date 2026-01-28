@@ -1,9 +1,10 @@
 # 🎮 NextPlay Tech — WIL Project Repository
 
-##Team Members:
-#Gurpreet Singh: C0932560
-#Pargat Singh: C0956007
-#Parth Salvi: C0954080
+## 👨‍💻 Team Members
+
+- **Gurpreet Singh** — C0932560  
+- **Pargat Singh** — C0956007  
+- **Parth Salvi** — C0954080
 
 Welcome to the official repository for **NextPlay Tech**, created as part of the  
 **WIL (Work Integrated Learning) Project** at Lambton College.
